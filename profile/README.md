@@ -9,4 +9,7 @@
 
 
 ### 🧑‍💻 팀원 소개
-
+| Backend| Backend| Backend| Frontend| Frontend|
+| :--:| :--:| :--:| :--:| :--:|
+| 오연희 | 제원정 | 고동환 | 서동준 | 황서윤 |
+|[y-hee00](https://github.com/y-hee00)|[jewonjeong](https://github.com/jewonjeong)|[eurdream98](https://github.com/eurdream98)|[Dongjoonseo](https://github.com/Dongjoonseo)|[insummer712](https://github.com/insummer712)|
