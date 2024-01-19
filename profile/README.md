@@ -9,6 +9,8 @@
   * Spring Framework
   * MySql
   * Postman
+  * REST API
+  * Apache Tomcat
 * 프론트엔드
   * React
   * Figma
