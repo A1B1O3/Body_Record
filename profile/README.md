@@ -49,7 +49,7 @@
 
 ## 🧰 ERD 설계 
 
-<img width="576" alt="그림1" src="https://github.com/A1B1O3/.github/assets/97442812/c8d81396-8a3e-476a-9763-6a0f241f8b05">
+<img width="576" alt="그림1" src="https://github.com/A1B1O3/.github/assets/127364216/4a93ff08-d947-4c26-8d2c-2459c69d7eac">
 
 
 ## 🧑‍💻 팀원 소개
