@@ -1,9 +1,14 @@
-# BodyRecord
-### 🚩 프로젝트 개요
+![header](https://capsule-render.vercel.app/api?type=venom&color=&height=300&section=header&text=BodyRecord&fontSize=70)
 
-#### 펜데믹 이후로 늘어난 헬스 인구의 편의성을 높여주기 위한 모바일 웹 서비스를 제작
+## 🚩 프로젝트 개요
 
-### 💻 프로젝트 기술 스택
+#### 🏋 펜데믹 이후로 늘어난 헬스 인구의 편의성을 높여주기 위한 모바일 웹 서비스를 제작
+#### 📅 날짜에 따른 운동기록 기능으로 하루하루 운동 횟수와 종류 상세 입력 가능
+#### 👟 챌린지 제작 및 참여로 동기부여 제공
+#### 📍 구글 소셜 로그인으로 간편 로그인 및 회원가입 지원
+#### 🙂 닉네임 및 프로필 사진 변경 기능 제공
+
+## 💻 프로젝트 기술 스택
 
 * 백엔드
   * Spring Framework
@@ -18,7 +23,7 @@
   * Github
   * Notion
     
-### 💡 프로젝트 주요 기능
+## 💡 프로젝트 주요 기능
 
 * 로그인
   * 구글 소셜 로그인 제공
@@ -34,7 +39,7 @@
   * 챌린지 참여 제공
   * 챌린지 인증을 통한 동기부여 제공
  
-### 💡 프로젝트 상세보기
+## 💡 프로젝트 상세보기
 
 |![ezgif-4-a4b8b77ad9](https://github.com/A1B1O3/.github/assets/97442812/ebdb20f2-731c-4ad4-bdce-fd1002949595)|![ezgif-4-cc8e394e42](https://github.com/A1B1O3/.github/assets/97442812/9cb4fb3c-df5d-4ffa-b69f-59a7dfa53f43)|
 | :--:| :--:| 
@@ -42,12 +47,12 @@
 | ![ezgif-4-9c00d0baef](https://github.com/A1B1O3/.github/assets/97442812/4c256351-edc5-43f3-b9a2-115287772964)| ![ezgif-2-f5c184b258](https://github.com/A1B1O3/.github/assets/97442812/faf5145e-f816-45e6-864e-7af319153073)|
 | 날짜에 따른 운동 기록 서비스 | 챌린지를 통한 운동 동기부여 제공 |
 
-### ERD 설계 
+## 🧰 ERD 설계 
 
 <img width="576" alt="그림1" src="https://github.com/A1B1O3/.github/assets/97442812/c8d81396-8a3e-476a-9763-6a0f241f8b05">
 
 
-### 🧑‍💻 팀원 소개
+## 🧑‍💻 팀원 소개
 | Backend| Backend| Backend| Frontend| Frontend|
 | :--:| :--:| :--:| :--:| :--:|
 | 오연희 | 제원정 | 고동환 | 서동준 | 황서윤 |
