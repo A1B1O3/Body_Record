@@ -1,4 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=&height=300&section=header&text=BodyRecord&fontSize=70)
+## 🏃 프로젝트 목차
+
+##### 프로젝트 개요
+##### 프로젝트 기술 스택
+##### 프로젝트 주요 기능
+##### 프로젝트 상세보기
+##### ERD 설계
+##### 팀원 소개
 
 ## 🚩 프로젝트 개요
 
@@ -9,6 +17,7 @@
 #### 🙂 닉네임 및 프로필 사진 변경 기능 제공
 
 ## 💻 프로젝트 기술 스택
+<img width="500" alt="그림1" src="https://github.com/A1B1O3/.github/assets/127364216/69f54833-7bc7-4feb-b8a6-beb5af0328a4">
 
 * 백엔드
   * Spring Framework
@@ -38,7 +47,7 @@
   * 챌린지 생성 제공
   * 챌린지 참여 제공
   * 챌린지 인증을 통한 동기부여 제공
- 
+
 ## 💡 프로젝트 상세보기
 
 |![ezgif-4-a4b8b77ad9](https://github.com/A1B1O3/.github/assets/97442812/ebdb20f2-731c-4ad4-bdce-fd1002949595)|![ezgif-4-cc8e394e42](https://github.com/A1B1O3/.github/assets/97442812/9cb4fb3c-df5d-4ffa-b69f-59a7dfa53f43)|
@@ -49,8 +58,7 @@
 
 ## 🧰 ERD 설계 
 
-<img width="576" alt="그림1" src="https://github.com/A1B1O3/.github/assets/127364216/4a93ff08-d947-4c26-8d2c-2459c69d7eac">
-
+<img width="700" alt="그림2" src="https://github.com/A1B1O3/.github/assets/127364216/4a93ff08-d947-4c26-8d2c-2459c69d7eac">
 
 ## 🧑‍💻 팀원 소개
 | Backend| Backend| Backend| Frontend| Frontend|
