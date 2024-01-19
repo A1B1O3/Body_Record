@@ -32,7 +32,7 @@
 * 프론트엔드
   * React
   * Figma
-* 햡업툴
+* 협업툴
   * Github
   * Notion
 
