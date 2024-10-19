@@ -76,5 +76,5 @@
 | 오연희 | 제원정 | 고동환 | 서동준 | 황서윤 |
 | :--:| :--:| :--:| :--:| :--:|
 | ![94092263](https://github.com/A1B1O3/.github/assets/97442812/71318137-c4f7-4eeb-bc08-8f0eba14c04a) | ![104977571](https://github.com/A1B1O3/.github/assets/97442812/ee5495cf-a09f-4cb8-93a5-7e1b28e01bb9) | ![111329365](https://github.com/A1B1O3/.github/assets/97442812/7b323f54-dbad-4f22-b530-31e0331da457) | ![97442812](https://github.com/A1B1O3/.github/assets/97442812/29088bd4-7f7e-4df1-b7cb-821a70a9af4e) | ![127364216](https://github.com/A1B1O3/.github/assets/97442812/7554bd7f-10cd-49e0-8def-9955dbba0a77) |
-|[y-hee00](https://github.com/y-hee00)|[jewonjeong](https://github.com/jewonjeong)|[eurdream98](https://github.com/eurdream98)|[Dongjoonseo](https://github.com/Dongjoonseo)|[insummer712](https://github.com/insummer712)|
+|[y-hee00](https://github.com/y-hee00)|[jewonjeong](https://github.com/jewonjeong)|[eurdream98](https://github.com/eurdream98)|[Dongjoonseo](https://github.com/Dongjoonseo)|[seoyoon13](https://github.com/seoyoon13)|
 
